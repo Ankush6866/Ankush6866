@@ -24,8 +24,7 @@
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankush6866&show_icons=true&locale=en" alt="ankush6866" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankush6866&" alt="ankush6866" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush6866&show_icons=true&locale=en&layout=compact" alt="ankush6866" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankush6866&show_icons=true&locale=en&layout=compact" alt="ankush6866" /></p><br>
 <hr>
-<br>
-### ✍️ Thought for the day:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
