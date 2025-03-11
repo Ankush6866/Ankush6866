@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar Chauhan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" 
-  src=![image](https://github.com/user-attachments/assets/106843bc-a224-4787-b6ba-acf46de2f7b8)
->
+  src="![image](https://github.com/user-attachments/assets/288a4210-5af4-4dd4-9e2a-78377f0e3188)">
 <h3>💫 About Me:</h3> 
 -  🌱 I’m currently learning <b>Web Development</b>
 
