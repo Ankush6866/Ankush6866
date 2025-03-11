@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar Chauhan</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <img align="right" alt="coding" width="400" 
-  src="[https://dribbble.com/shots/4948736-UI-Developer](https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif]https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+  src=![image](https://github.com/user-attachments/assets/106843bc-a224-4787-b6ba-acf46de2f7b8)
+>
 <h3>💫 About Me:</h3> 
 -  🌱 I’m currently learning <b>Web Development</b>
 
