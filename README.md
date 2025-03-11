@@ -1,6 +1,6 @@
 ![logo](Github_banner.png)
 <h1 align="center">Hi 👋, I'm Ankush Kumar Chauhan</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer.</h3>
 <img align="right" alt="coding" width="400" 
   src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 -  🌱 I’m currently learning <b>Web Development</b>
